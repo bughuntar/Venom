@@ -7,10 +7,10 @@ Vulnerability Scanner
 git clone https://github.com/v3n0m-scanner/v3n0m-scanner.git && cd v3n0m-scanner/src
 ```
 ```javascript
-python3.5 ./v3n0m.py
+python3 ./v3n0m.py
 ```
 
-**Dependencies:
+**Dependencies:**
 ```javascript
 sudo apt-get update
 ```
